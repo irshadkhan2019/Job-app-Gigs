@@ -36,6 +36,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.4.1",
     "pino-pretty": "^11.1.0",
+    "redis": "^4.6.14",
     "typescript": "^5.4.5",
     "typescript-transform-paths": "^3.4.7",
     "uuid": "^9.0.1",
